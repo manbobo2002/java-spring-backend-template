@@ -19,6 +19,8 @@ Startup:
 docker-compose up -d
 ```
 
+Then browse it on http://localhost:8080/api/v1/student
+
 Shutdown:
 ```
 docker-compose down
